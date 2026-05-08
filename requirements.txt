@@ -1,0 +1,10 @@
+# Python dependencies for bugbounty-AI / venomeye
+#
+# Most scripts use only the standard library. The single third-party
+# requirement is weasyprint, used by generate_report.py to render the
+# PDF threat-hunting report.
+#
+# Install:  pip install -r requirements.txt
+# Python:   3.9+
+
+weasyprint>=60.0
