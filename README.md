@@ -206,7 +206,7 @@ Every module is a **standalone CLI tool** — run the full 17-phase pipeline wit
 python3 --version
 
 # 1. Clone the repository
-git clone https://github.com/v3nomtech/venomeye.git
+git clone https://github.com/v3nomtech/v3nomEyE.git
 cd venomeye
 
 # 2. Create and activate a virtual environment (recommended)
